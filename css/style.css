@@ -5,6 +5,9 @@
     --light: #FAFAFB;
     --dark: #12141D;
 }
+body {
+    font-family: Ubuntu;
+}
 
 .back-to-top {
     position: fixed;
